@@ -1,0 +1,54 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "yay",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Justin2528",
+  "license": "ISC",
+  "dependencies": {
+    "array-sort": "^1.0.0",
+    "ascii-art": "^1.4.3",
+    "botlist.space": "^1.0.7",
+    "cheerio": "^1.0.0-rc.2",
+    "cpu-stat": "^2.0.1",
+    "cpu-stats": "^1.0.0",
+    "discord.js": "github:hydrabolt/discord.js",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-binaries": "^4.0.0",
+    "fortnite": "^4.1.1",
+    "google": "^2.1.0",
+    "google-translate-api": "^2.3.0",
+    "google-tts-api": "0.0.2",
+    "humanize-duration": "^3.15.1",
+    "i": "^0.3.6",
+    "math-expression-evaluator": "^1.2.17",
+    "memejs": "^1.0.7",
+    "moment": "^2.22.2",
+    "moment-duration-format": "^2.2.2",
+    "node-opus": "^0.3.0",
+    "npm": "^6.2.0",
+    "parse-ms": "^2.0.0",
+    "path": "^0.12.7",
+    "prettyconsole": "^1.0.0",
+    "querystring": "^0.2.0",
+    "quick.hook": "^1.4.2",
+    "random-puppy": "^1.1.0",
+    "snekfetch": "^4.0.4",
+    "string-similarity": "^1.2.0",
+    "superagent": "^3.8.3",
+    "table": "^4.0.3",
+    "yt-search": "^0.1.4",
+    "ytdl-core": "^0.20.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "keywords": [
+    "bot"
+  ]
+}
